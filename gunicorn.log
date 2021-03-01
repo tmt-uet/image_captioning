@@ -1,0 +1,22 @@
+[2020-10-31 09:31:22 +0000] [21367] [INFO] Starting gunicorn 20.0.4
+[2020-10-31 09:31:22 +0000] [21367] [INFO] Listening at: unix:generate.sock (21367)
+[2020-10-31 09:31:22 +0000] [21367] [INFO] Using worker: sync
+[2020-10-31 09:31:22 +0000] [21395] [INFO] Booting worker with pid: 21395
+[2020-10-31 09:31:22 +0000] [21396] [INFO] Booting worker with pid: 21396
+[2020-10-31 09:31:22 +0000] [21398] [INFO] Booting worker with pid: 21398
+[2020-10-31 09:32:55 +0000] [21395] [INFO] Worker exiting (pid: 21395)
+[2020-10-31 09:32:55 +0000] [21396] [INFO] Worker exiting (pid: 21396)
+[2020-10-31 09:32:55 +0000] [21398] [INFO] Worker exiting (pid: 21398)
+[2020-10-31 09:32:55 +0000] [21367] [INFO] Handling signal: term
+[2020-10-31 09:32:55 +0000] [21367] [INFO] Shutting down: Master
+[2020-10-31 09:32:55 +0000] [21478] [INFO] Starting gunicorn 20.0.4
+[2020-10-31 09:32:55 +0000] [21478] [INFO] Listening at: unix:generate.sock (21478)
+[2020-10-31 09:32:55 +0000] [21478] [INFO] Using worker: sync
+[2020-10-31 09:32:55 +0000] [21509] [INFO] Booting worker with pid: 21509
+[2020-10-31 09:32:55 +0000] [21511] [INFO] Booting worker with pid: 21511
+[2020-10-31 09:32:55 +0000] [21513] [INFO] Booting worker with pid: 21513
+[2020-10-31 09:33:02 +0000] [21511] [INFO] Worker exiting (pid: 21511)
+[2020-10-31 09:33:02 +0000] [21478] [INFO] Handling signal: term
+[2020-10-31 09:33:02 +0000] [21509] [INFO] Worker exiting (pid: 21509)
+[2020-10-31 09:33:02 +0000] [21513] [INFO] Worker exiting (pid: 21513)
+[2020-10-31 09:33:02 +0000] [21478] [INFO] Shutting down: Master
